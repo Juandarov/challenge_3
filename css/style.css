@@ -1,0 +1,29 @@
+body {
+    width: 1000px;
+    background-color: #212121;
+}
+
+nav {
+    background-color: white;
+}
+
+ul li {
+    display: inline-block;
+}
+
+.section1 {
+    background-image: url("../images/banner.png");
+    background-color: #27ae61;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
