@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: block;
+}
+
+h1 {
+    display: block;
+}
+
+main {
+    width: 576px;
+}
+
+footer > p {
+    width: 576px;
+}

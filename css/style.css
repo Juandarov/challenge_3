@@ -111,7 +111,7 @@ h3 {
 }
 
 .section2 > p {
-    color: black;
+    color: #2B3F48;
     width: 90%;
     margin: 0 auto;
 }
@@ -135,6 +135,23 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    color: white;
+    font-size: 50px;
+    padding-top: 60px;
+    font-weight: normal;
+}
+
+.section3 > #third {
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.section3 > p {
+    width: 90%;
+    margin: 0 auto;
+}
+
 .section3 > input {
     background-color: white;
     border-radius: 5px;
@@ -145,7 +162,7 @@ h3 {
     text-transform: uppercase;
     width: 260px;
     margin-bottom: 80px;
-
+    margin-top: 50px;
 }
 
 footer {
@@ -156,7 +173,8 @@ footer {
 }
 
 footer > p {
-    color: black;
+    color: #656565;
     padding-top: 86px;
     text-transform: uppercase;
+    font-size: 13px;
 }
