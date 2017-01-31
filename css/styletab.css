@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-header, body, footer, nav {
+header, body, footer, nav, article, div {
     width: auto;
 }
 nav ul li {
