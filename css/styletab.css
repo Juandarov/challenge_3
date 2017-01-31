@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-header, body, footer, nav, article, div {
+header, body, footer, nav, article, div,#header {
     width: auto;
 }
 nav ul li {
@@ -15,7 +15,12 @@ h1 {
     display: block;
     margin-bottom: 20px;
     font-size: 50px;
-    margin-left: 70px;
+    margin-left: 57px;
+}
+
+ul {
+    margin-left: 57px;
+    width: auto;
 }
 
 #img3 {
