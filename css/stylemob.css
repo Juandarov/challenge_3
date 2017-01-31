@@ -3,18 +3,19 @@
     padding: 0;
 }
 
+header, body, footer, nav {
+    width: auto;
+}
+
 nav ul li {
     display: block;
 }
 
 h1 {
     display: block;
+    margin-bottom: 20px;
 }
 
-main {
-    width: 576px;
-}
-
-footer > p {
-    width: 576px;
+#img3 {
+    margin-top: -30px;
 }
